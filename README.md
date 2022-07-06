@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Mishra</h1>
+<h1 align="left">Dhruv Mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-mishra&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-mishra" /> </p>
 
 <h3 align="left">Connect with me:</h3>
